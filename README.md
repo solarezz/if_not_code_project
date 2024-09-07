@@ -13,3 +13,9 @@ This repository was created to document my activities on a day when I wasn't cod
 - Learning: GoLang
 
 ---
+
+## 🗓️ 07.09.2024
+- Learning: GoLang
+- Worked with various operating systems 💻🌐
+
+---
