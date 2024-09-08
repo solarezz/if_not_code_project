@@ -19,3 +19,9 @@ This repository was created to document my activities on a day when I wasn't cod
 - Worked with various operating systems 💻🌐
 
 ---
+
+## 🗓️ 08.09.2024
+- Learning: GoLang
+- I was setting up a new OS - ArchLinux! 🖥️✨
+
+---
