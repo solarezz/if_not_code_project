@@ -151,6 +151,12 @@ This repository was created to document my activities on a day when I wasn't cod
 
 ---
 
+## 🗓️ 02.10.2024
+- Learning: make.com
+
+
+---
+
 
 
 
